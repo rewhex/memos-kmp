@@ -28,6 +28,14 @@ The following tasks are still in progress or need improvements:
   Missing: iOS Logo.png (512x512)\
   Missing: Android mipmaps
 
+## Whats implemented
+
+- Project structure for Android, iOS, Desktop (JVM) clients
+- Network state detection
+- WebView's with configuration
+- Handling of self-signed certificates
+- Memos instance IP address setting (IP only for now; Domain names must be added)
+
 ---
 
 ## Contributing
